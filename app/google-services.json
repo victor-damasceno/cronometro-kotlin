@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380187964049",
+    "project_id": "cronmetro---kotlin",
+    "storage_bucket": "cronmetro---kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380187964049:android:868aa135e7a0849ca28530",
+        "android_client_info": {
+          "package_name": "com.example.cronometro4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380187964049-n2vasbnkc3q6318mr239943t7oh9vann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYZgGxi0GeUy4O8ojpNjSFZ6QiWC8PeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380187964049-n2vasbnkc3q6318mr239943t7oh9vann.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
